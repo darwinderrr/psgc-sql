@@ -1,5 +1,5 @@
 # psgc-sql
-Generate SQL File from PSGC Excel File. This aims to easily parse the PSGC excel file for use in SQL-based addresses
+Generate SQL File from PSGC Excel File. This aims to easily parse the PSGC excel file to be imported to an SQL database for use in web apps for addresses in the Philippines.
 
 # Requirements
 - [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/en/latest/#installation) (install via Composer)
