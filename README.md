@@ -2,7 +2,7 @@
 Generate SQL File from PSGC Excel File
 
 # Requirements
-- PhpSpreadsheet (install via Composer)
+- [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/en/latest/#installation) (install via Composer)
 
 # How to use
 - Run PHP file via terminal / cmd: php path/to/generate.php
